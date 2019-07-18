@@ -4,7 +4,7 @@
 		<version>2.0.0</version>
 		<infourl title="Responsive content images"><![CDATA[https://github.com/ttc-freebies/plugin-responsive-images]]></infourl>
 		<downloads>
-			<downloadurl type="full" format="zip"><![CDATA[https://github.com/ttc-freebies/plugin-responsive-images/releases/download/1.0.1/v1.0.1.zip]]></downloadurl>
+			<downloadurl type="full" format="zip"><![CDATA[https://github.com/ttc-freebies/plugin-responsive-images/releases/download/2.0.0/v2.0.0.zip]]></downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3.*"/>
 		<element>responsive</element>
